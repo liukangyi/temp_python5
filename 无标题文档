@@ -1,8 +1,0 @@
-# 项目出始化
-def index():
-	print("index info")
-
-a = 1
-
-
-
